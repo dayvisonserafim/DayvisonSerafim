@@ -1,7 +1,6 @@
 ##👋 Olá! Seja bem vindo(a)
 
-- 🔭 Estágiando
-- 🌱 Estudando front-end
+- 🌱 Student front-end
 
 <div align="center">
   <a href="https://github.com/DayvisonSerafim">
